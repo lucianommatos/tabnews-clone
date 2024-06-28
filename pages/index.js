@@ -1,5 +1,5 @@
  function Home() {
-    return <h1>Te amo, obrigado por ser a melhor mãe do mundo para nossa filha!</h1>
+    return <h1>Thais, obrigado por ser a melhor mãe do mundo para nossa filha. Te amo!</h1>
  }
 
  export default Home;
